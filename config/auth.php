@@ -77,7 +77,7 @@ return [
         // ],
     ],
 
-    // Add api auth configuration
+    // Add api auth configuration- test
     'guards' => [
         'web' => [
             'driver' => 'session',
